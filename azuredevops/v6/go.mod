@@ -1,4 +1,4 @@
-module github.com/microsoft/azure-devops-go-api/azuredevops/v6
+module github.com/bushelpowered/azure-devops-go-api/azuredevops/v6
 
 go 1.12
 

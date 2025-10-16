@@ -10,12 +10,12 @@ package memberentitlementmanagement
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/commerce"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/graph"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/licensing"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/licensingrule"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/operations"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/commerce"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/graph"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/licensing"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/licensingrule"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/operations"
 )
 
 type BaseOperationResult struct {

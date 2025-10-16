@@ -10,9 +10,9 @@ package extensionmanagement
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/gallery"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/webapi"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/gallery"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/webapi"
 )
 
 // How the acquisition is assigned

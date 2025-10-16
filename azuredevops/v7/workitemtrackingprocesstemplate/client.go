@@ -11,7 +11,7 @@ package workitemtrackingprocesstemplate
 import (
 	"context"
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7"
 	"io"
 	"net/http"
 	"net/url"

@@ -10,7 +10,7 @@ package projectanalysis
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops"
 )
 
 type AggregationType string

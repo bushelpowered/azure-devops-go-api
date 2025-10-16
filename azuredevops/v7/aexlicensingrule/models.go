@@ -9,9 +9,9 @@
 package aexlicensingrule
 
 import (
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/licensing"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/operations"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/licensing"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/operations"
 )
 
 type ApplicationStatus struct {

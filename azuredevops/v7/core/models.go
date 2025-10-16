@@ -10,9 +10,9 @@ package core
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/identity"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/webapi"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/identity"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/webapi"
 )
 
 type ConnectedServiceKind string

@@ -10,9 +10,9 @@ package pipelinepermissions
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/pipelineschecks"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/webapi"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/pipelineschecks"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/webapi"
 )
 
 type Permission struct {

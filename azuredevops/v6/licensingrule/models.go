@@ -9,9 +9,9 @@
 package licensingrule
 
 import (
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/licensing"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v6/operations"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v6"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v6/licensing"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v6/operations"
 )
 
 type ApplicationStatus struct {

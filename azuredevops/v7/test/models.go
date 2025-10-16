@@ -10,10 +10,10 @@ package test
 
 import (
 	"github.com/google/uuid"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/core"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/system"
-	"github.com/microsoft/azure-devops-go-api/azuredevops/v7/webapi"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/core"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/system"
+	"github.com/bushelpowered/azure-devops-go-api/azuredevops/v7/webapi"
 )
 
 type AbortTestRunRequest struct {
